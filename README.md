@@ -1,5 +1,6 @@
 # Autoenkodery + Autoencodery Generatywne.
 Autorzy: Piotr Kubacki i Piotr Borycki
+
 Celem dzisiejszych zajęć jest poruszenie następujących tematów:
 1. Wprowadzenie i zapoznanie z konceptem AutoEnkodera
 2. Wprowadzenie do modeli generatywnych na podstawie VAE
